@@ -12,7 +12,7 @@ There are three Federal agencies that have their own requirements which must be 
 
 Beware, this process is not for the faint of heart. The instructions written here were based on an import of a motorcycle model that was also sold in the US market. The further your vehicle deviates from a similar model sold in the US, the greater challenge, expense and reduced chances of success you will experience. Generally, the older the vehicle, the easier it is to import as it was subject to fewer regulations and standards at the time of manufacture. You must also engage with a registered importer and have them make any required modifications to bring your vehicle into US compliance.
 
-IMPORTANT NOTE: This does not cover state-level emissions or other regulatory requirements for registering vehicles. Some states i.e. have minimal requirements, they will only need the federal import documentation and an odo reading and you're good to go. Other states may be significantly more stringent with emissions, vehicle safety and other requirements. Check with your DMV first before following this process. 
+IMPORTANT NOTE: This does not cover state-level emissions or other regulatory requirements for registering vehicles. Some states such as Washington State have minimal requirements, they will only need the federal import documentation and an odo reading and you're good to go. Other states such as California and Pennsylvania may be significantly more stringent with emissions, vehicle safety and other requirements. Check with your DMV first before following this process. 
 
 # Brief Overview of Procedure:
     Find a Registered Importer
