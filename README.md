@@ -1,4 +1,4 @@
-# US-Vehicle-Import-Process-for-Noncompliant-Canadian-Vehicles
+# Importing DoT Non-Compliant Canadian Vehicles into the United States
 My Process for Importing Non-DoT compliant Canadian vehicles into the USA.
 
 Is Github the appropriate place for this? Who knows? But I didn't want this to just live on VisaJourney!
