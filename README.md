@@ -15,12 +15,12 @@ Beware, this process is not for the faint of heart. The instructions written her
 IMPORTANT NOTE: This does not cover state-level emissions or other regulatory requirements for registering vehicles. Some states such as Washington State have minimal requirements, they will only need the federal import documentation and an odo reading and you're good to go. Other states such as California and Pennsylvania may be significantly more stringent with emissions, vehicle safety and other requirements. Check with your DMV first before following this process. 
 
 # Brief Overview of Procedure:
-    Find a Registered Importer
-    Engage RI and prepare import paperwork
-    Confirm EPA compliance
-    Present vehicle for inspection at the land border
-    Take vehicle to RI hold lot. RI to assess, make modifications and provide compliance to DOT
-    DOT releases vehicle to owner. Owner registers vehicle with their state
+Find a Registered Importer
+Engage RI and prepare import paperwork
+Confirm EPA compliance
+Present vehicle for inspection at the land border
+Take vehicle to RI hold lot. RI to assess, make modifications and provide compliance to DOT
+DOT releases vehicle to owner. Owner registers vehicle with their state
 
 # Step 1: Finding a Registered Importer
 
@@ -180,32 +180,57 @@ You can contact the author Kai G. Llewellyn at https://www.visajourney.com/profi
 # Glossary of Terms
 
 Bond – Money that is posted with the US DOT to guarantee that the vehicle will either be brought into compliance with applicable FMVSS, exported or destroyed. If the terms of import are not followed, the bond is forfeit. The bond posted is 150% of the dutiable value of the vehicle. The bond is usually posted by the RI and the owner is not required to furnish this money themselves.
+
 CARB – California Air Resource Board – Additional emissions requirements that were created by the State of California which a number of other states have unilaterally adopted. A vehicle claiming ’50 states compliant’ will be CARB compliant. The EPA has no jurisdiction nor enforcement over CARB requirements, it’s down to the states to refuse to register noncompliant vehicles dependent on their own laws.
+
 CBP Form 7501 – Probably the most important form of all, as this documents the vehicle’s lawful import into the US.  All state DMV’s are required to obtain the original copy of this form to register ANY foreign vehicle.
+
 CMVSS – Canadian Motor Vehicle Safety Standards. Comprises all safety standards that vehicles are required to comply with for sale in the Canadian Market. They follow US FMVSS for the most part with some exceptions. Such as regarding TPMS which is optional in Canada, and daylight running lights which are mandatory in Canada but not the US.
+
 DOT – US Department of Transportation. Not to be confused with state DOT’s.
+
 DOT Form HS-7 – The DOT form that declares whether a vehicle is FMVSS compliant, or if not, the form documents requirements or exemptions for lawful import.
+
 EPA Form 3250 – The EPA form which declares whether a vehicle is EPA compliant, or if not, the form documents requirements or exemptions for lawful import.
+
 FMVSS – Federal Motor Vehicle Safety Standards. Comprises all safety and theft prevention standards that vehicles are required to comply with for sale in the US market. Vehicles are required to comply with the applicable FMVSS at time of manufacture, not at time of import.
+
 ICI – Independent Commercial Importer – A private company authorized by EPA to perform emissions modifications and attest to EPA emissions compliance.
+
 NHTSA – National Highway Traffic Safety Administration which is an agency under the US DOT.
+
 RI – Registered Importer – A private company authorized by DOT to perform modifications on non-compliant vehicles and to attest to FMVSS compliance.
+
 Statement of Conformity – A document completed by the RI to indicate which FMVSS the vehicle was compliant at time of manufacture, which FMVSS required modifications to the vehicle and which FMVSS don’t apply.
+
 TPMS – Tire Pressure Monitoring System – A system required in the US market to alert the driver that their tires have low pressure.
+
 VECI – Vehicle Emissions Control Information – A sticker that is affixed by the manufacturer which details regulatory compliance information for the engine. Canadian VECIs may or may not include EPA compliance.
+
 VIN – Vehicle Identification Number – A globally unique ID that is specific to your vehicle and can identify it without the consideration of registration papers and the like. Each country has its own format that the VIN takes. VINs are required to be clearly displayed as required by FMVSS/CMVSS.
 
-#Further Reading
+
+# Further Reading
 
 CBP, Form 7501 – Entry Summary: https://www.cbp.gov/sites/default/files/assets/documents/2021-Sep/CBP%20Form%207501.pdf
+
 EPA, Form 3520-1 – Importation of Motor Vehicles and Motor Vehicle Engines Subject to Federal Air Pollution Regulations: https://www.epa.gov/sites/default/files/2021-02/documents/form3520-1-2021-01-secured-enabled.pdf
+
 CBP, Importing a Motor Vehicle: https://www.cbp.gov/trade/basic-import-export/importing-car
+
 CBP, Importing a non-US Version / non conforming vehicle or car into the US: https://help.cbp.gov/s/article/Article-289?language=en_US
+
 CBP, Registering a foreign registered vehicle, car or motorcycle in the United States with Department of Motor Vehicles: https://help.cbp.gov/s/article/Article-425?language=en_US
+
 CBP, Requirements for Importing a Personal Vehicle / Vehicle Parts: https://help.cbp.gov/s/article/Article-218?language=en_US
+
 EPA, Importing Vehicles and Engines into the United States: https://www.epa.gov/importing-vehicles-and-engines
+
 EPA, Procedures for Importing Vehicles and Engines into the United States – Manual: https://nepis.epa.gov/Exe/ZyPDF.cgi?Dockey=P10081IS.pdf
+
 Barasch, Larry, BMW Motorcycle Owners of America – Importing A Canadian Montauk into the USA: https://www.bmwmoa.org/news/339329/Importing-a-Canadian-Montauk-into-the-USA.htm
+
 NHTSA, Active Registered Importers: https://www.nhtsa.gov/importing-vehicle/registered-importers
+
 NHTSA, Importing a Vehicle: https://www.nhtsa.gov/importing-vehicle
 NHTSA, Form HS-7 – Importation of Motor Vehicles and Motor Vehicle Equipment Subject to Federal Motor Vehicle Safety, Bumper and Theft Prevention Standards: https://www.nhtsa.gov/sites/nhtsa.gov/files/documents/hs7_111920_v3_secured.pdf
